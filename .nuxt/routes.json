@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Library/WebServer/Documents/www/study/lg-fe/vue/p3/realworld-nuxt/pages/layout/layout.vue",
+    "children": [
+      {
+        "path": "/",
+        "name": "home",
+        "component": "/Library/WebServer/Documents/www/study/lg-fe/vue/p3/realworld-nuxt/pages/index.vue",
+        "_name": "_05e70dd7"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Library/WebServer/Documents/www/study/lg-fe/vue/p3/realworld-nuxt/pages/login.vue",
+        "_name": "_60e29e24"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Library/WebServer/Documents/www/study/lg-fe/vue/p3/realworld-nuxt/pages/login.vue",
+        "_name": "_60e29e24"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Library/WebServer/Documents/www/study/lg-fe/vue/p3/realworld-nuxt/pages/profile.vue",
+        "_name": "_21d303ee"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Library/WebServer/Documents/www/study/lg-fe/vue/p3/realworld-nuxt/pages/setting.vue",
+        "_name": "_0ff2dd15"
+      },
+      {
+        "path": "/editor/:slug?",
+        "name": "editor",
+        "component": "/Library/WebServer/Documents/www/study/lg-fe/vue/p3/realworld-nuxt/pages/editor.vue",
+        "_name": "_304dd7b8"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Library/WebServer/Documents/www/study/lg-fe/vue/p3/realworld-nuxt/pages/article.vue",
+        "_name": "_4800d8bb"
+      }
+    ],
+    "_name": "_5ecb6198"
+  }
+]
