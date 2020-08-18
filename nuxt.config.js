@@ -4,6 +4,7 @@ module.exports = {
     port: 8989,
   },
   router: {
+    base: '/realworld',
     linkActiveClass: "active",
     extendRoutes(routes, resolve) {
       // 删除所有的预制路由
